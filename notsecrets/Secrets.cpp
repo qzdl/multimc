@@ -28,7 +28,7 @@ namespace {
  * If you intend to base your own launcher on this code, take care and customize this to obfuscate the client ID, so it cannot be trivially found by casual attackers.
  */
 
-QString MSAClientID = "";
+QString MSAClientID = "d049827f-35e4-41e5-a071-c3ab3b71ff78";
 }
 
 namespace Secrets {
